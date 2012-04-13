@@ -1,0 +1,25 @@
+[2012-04-12 15:12:41] START
+[2012-04-13 08:38:42] EDIT websetup/controllers/default.py: 1
+[2012-04-13 08:41:33] EDIT websetup/controllers/default.py: 2
+[2012-04-13 08:41:37] EDIT websetup/controllers/default.py: 0
+[2012-04-13 08:42:59] EDIT websetup/views/default/index.html: 1
+[2012-04-13 08:43:33] EDIT websetup/controllers/default.py: 0
+[2012-04-13 08:49:20] EDIT websetup/views/default/index.html: -26
+[2012-04-13 08:49:48] EDIT websetup/views/default/index.html: -1
+[2012-04-13 08:55:13] EDIT websetup/views/default/index.html: 4
+[2012-04-13 08:56:35] EDIT websetup/views/default/index.html: 0
+[2012-04-13 08:57:32] EDIT websetup/controllers/default.py: 0
+[2012-04-13 08:58:41] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:05:37] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:06:04] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:06:26] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:06:38] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:06:56] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:07:15] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:08:06] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:08:26] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:09:43] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:10:56] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:11:38] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:12:05] EDIT websetup/views/default/index.html: 0
+[2012-04-13 09:13:38] EDIT websetup/views/default/index.html: 0
