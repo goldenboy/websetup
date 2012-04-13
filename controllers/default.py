@@ -15,6 +15,7 @@ def index():
     rendered by views/default/index.html or views/generic.html
     """
     response.flash = "Welcome to Websetup !"
+    #-----------------------------------------Take Decision and Do The appropriate Redirect -----------------------------------------------------#
     if request.vars.firstTime == "True":  # this is a request generated when the eden is first run
         return dict(message=T("First Time Run of Eden Application "))
     else:
